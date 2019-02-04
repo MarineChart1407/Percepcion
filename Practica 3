@@ -1,0 +1,11 @@
+//Miguel de Jesus Rodriguez Zozaya  1791679
+function setup() {
+  createCanvas(400, 400);
+}
+function draw() {
+  background(220);
+	stroke(255,0,0)
+	ellipse(200, 200, 200, 200);
+	strokeWeight(20);
+	line(125, 150, 270, 250);
+}
