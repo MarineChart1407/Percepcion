@@ -1,0 +1,11 @@
+riguezMiguel de Jesus Rodriguez Zozaya
+function setup() {
+createCanvas(600,600);
+}
+
+function draw() {
+    background(150);
+    line(300,300,600,600);
+    line(300,0,300,300);
+    line(0,600,300,300);
+}
